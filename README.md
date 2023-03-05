@@ -1,1 +1,1 @@
-# exerciciosebac
+# exercicios-ebac
